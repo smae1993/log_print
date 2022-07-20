@@ -8,15 +8,15 @@ We can not undrestand that your console supports colorful printing or not. so yo
 
 ## Screenshots
 
-<img src="https://github.com/smae1993/log_print/raw/main/screenShots/screen_shot_1.png" height="410em" width="1422em" />
+<img src="https://github.com/smae1993/log_print/raw/master/screenShots/screen_shot_1.png" height="144em" width="500em" />
 
 ## Usage
 
-[Example](https://github.com/smae1993/log_print/blob/main/example/lib/main.dart)
+[Example](https://github.com/smae1993/log_print/blob/master/example/lib/main.dart)
 
 To use this package :
 
-* add the dependency to your [pubspec.yaml](https://github.com/smae1993/log_print/blob/main/pubspec.yaml) file.
+* add the dependency to your [pubspec.yaml](https://github.com/smae1993/log_print/blob/master/pubspec.yaml) file.
 
 ```yaml
   dependencies:
